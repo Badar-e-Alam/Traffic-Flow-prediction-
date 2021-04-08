@@ -1,2 +1,7 @@
-# trafficeflow_RNN
-Pridect the traffice flow for next hout with the help of RNN
+# Traffice flow Prediction 🚓🚕🛺🚙🚌🚐🚎🚘🚜🚛🚒🚑🚗
+### - Next Hour Traffic prediction to helpout the city management  
+ - Used California roads dataset --Private 
+ - ## Reqiurement 
+ - install torch.vision.... 
+ - First dataload to load dataset 
+ - Then run
